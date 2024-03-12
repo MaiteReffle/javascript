@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "selfModern";
+    src: url(../fonts/SelfModern-Light.ttf);
+  }
+  @font-face {
+    font-family: "RocGrotesk";
+    src: url(../fonts/RocGrotesk-Light.ttf);
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 3rem;
+    font-family: "RocGrotesk";
+    margin-left: 5%;
+    margin-top: 2%;
+  }
