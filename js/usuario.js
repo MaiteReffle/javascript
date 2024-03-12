@@ -12,6 +12,5 @@ class Usuario {
         this.nombresBebeLower = []
         this.registrosDePeso = []
         this.pesoPromedio
-    }
-    
+    }   
 }
